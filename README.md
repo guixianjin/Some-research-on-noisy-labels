@@ -1,7 +1,7 @@
 
 This is a record of current experiment result on Clothing1M dataset
 
-## Clothing1M dataset
+# Clothing1M dataset
 from: [CVPR-15: Learning from Massive Noisy Labeled Data for Image Classification]()
  + 14 classes: T-shirt, Shirt, Knitwear, Chiffon, Sweater, Hoodie, Windbreaker, Jacket, Down Coat, Suit, Shawl, Dress, Vest, and Underwear
  + noisy labeled training dataset ($D_\eta$): $10^6$
@@ -29,7 +29,7 @@ from: [CVPR-15: Learning from Massive Noisy Labeled Data for Image Classificatio
 
 
 
-## WebVison dataset
+# WebVison dataset
 from: [Arxiv17: Webvision database: Visual learning and understanding from web data]()
 + 1,000 classes: concepts in ImageNet ILSVRC12
 
@@ -38,5 +38,9 @@ from: [Arxiv17: Webvision database: Visual learning and understanding from web d
 ### [ICML-19:	Understanding and Utilizing Deep Neural Networks Trained with Noisy Labels]()
 
 
+
+
+# [ANIMAL10N](https://dm.kaist.ac.kr/datasets/animal10n)
+from: [ICML-19: SELFIE: Refurbishing Unclean Samples for Robust Deep Learning]()
 
 

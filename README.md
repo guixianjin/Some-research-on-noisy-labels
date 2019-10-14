@@ -9,3 +9,4 @@ This is a record of current experiment result on Clothing1M dataset
  clean test set: 10,526
  
  
+ddd

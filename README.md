@@ -9,7 +9,7 @@ from: [CVPR-15: Learning from Massive Noisy Labeled Data for Image Classificatio
  + clean validation set: 14,313
  + clean test set: 10,526
  
- ![Noise confusion matrix]() 
+ ![Noise confusion matrix](https://github.com/guixianjin/Some-realistic-noisy-label-datasets/blob/master/Clothing1Mnoise_transition_matrix.PNG) 
  
  
 #### 1.[CVPR-15: Learning from Massive Noisy Labeled Data for Image Classification]()

@@ -1,5 +1,5 @@
 
-This is a record of current experiment result on Clothing1M dataset
+This is a record of current experiment result on some realistic noisy label datasets
 
 # Clothing1M dataset
 from: [CVPR-15: Learning from Massive Noisy Labeled Data for Image Classification]()

@@ -13,6 +13,9 @@ from: [CVPR-15: Learning from Massive Noisy Labeled Data for Image Classificatio
  
  
 #### 1.[CVPR-15: Learning from Massive Noisy Labeled Data for Image Classification]()
+![some result]()
+
+
 #### 2.[CVPR17: Making Deep Neural Networks Robust to Label Noise: A Loss Correction Approach]()
 #### 3.[CVPR-18: Joint Optimization Framework for Learning With Noisy Labels]()
 #### 4.[CVPR18: CleanNet: Transfer Learning for Scalable Image Classifier Training With Label Noise]()
@@ -32,7 +35,7 @@ from: [CVPR-15: Learning from Massive Noisy Labeled Data for Image Classificatio
 
 
 
-### WebVison dataset
+## WebVison dataset
 from: [Arxiv17: Webvision database: Visual learning and understanding from web data]()
 + 1,000 classes: concepts in ImageNet ILSVRC12
 

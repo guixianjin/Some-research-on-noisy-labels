@@ -13,7 +13,7 @@ from: [CVPR-15: Learning from Massive Noisy Labeled Data for Image Classificatio
  
  
 #### 1.[CVPR-15: Learning from Massive Noisy Labeled Data for Image Classification]()
-![some result]()
+![some result](https://github.com/guixianjin/Some-realistic-noisy-label-datasets/blob/master/some_result.PNG)
 
 
 #### 2.[CVPR17: Making Deep Neural Networks Robust to Label Noise: A Loss Correction Approach]()

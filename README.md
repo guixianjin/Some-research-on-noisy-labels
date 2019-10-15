@@ -25,7 +25,7 @@ from: [CVPR-15: Learning from Massive Noisy Labeled Data for Image Classificatio
 #### 4.[CVPR-18: CleanNet: Transfer Learning for Scalable Image Classifier Training With Label Noise](https://arxiv.org/pdf/1711.07131.pdf)
 ![some result](https://github.com/guixianjin/Some-realistic-noisy-label-datasets/blob/master/clean_net.PNG)
 
-#### 5 .[AAAI-19: Safeguarded Dynamic Label Regression for Noisy Supervision(journal verison)](https://arxiv.org/abs/1903.02152?context=cs.CV)
+#### 5.[AAAI-19: Safeguarded Dynamic Label Regression for Noisy Supervision(journal verison)](https://arxiv.org/abs/1903.02152?context=cs.CV)
 ![some result](https://github.com/guixianjin/Some-realistic-noisy-label-datasets/blob/master/LCNN.PNG)
 
 #### 6.[CVPR-19：Probabilistic End-to-End Noise Correction for Learning with Noisy Labels](https://arxiv.org/pdf/1903.07788.pdf)

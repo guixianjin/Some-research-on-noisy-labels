@@ -29,7 +29,7 @@ from: [CVPR-15: Learning from Massive Noisy Labeled Data for Image Classificatio
 ![some result](https://github.com/guixianjin/Some-realistic-noisy-label-datasets/blob/master/PicturesForClothing1M/LCNN.PNG)
 
 #### 6. [CVPR-19：Probabilistic End-to-End Noise Correction for Learning with Noisy Labels](https://arxiv.org/pdf/1903.07788.pdf)
-![some result](https://github.com/guixianjin/Some-realistic-noisy-label-datasets/blob/master/PicturesForClothing1M/pencil.PNG)
+![some result](https://github.com/guixianjin/Some-realistic-noisy-label-datasets/blob/master/PicturesForClothing1M/pencil2.PNG)
 
 #### 7. [ICML-19: Unsupervised Label Noise Modeling and Loss Correction](https://arxiv.org/pdf/1904.11238v2.pdf)
 about 71%

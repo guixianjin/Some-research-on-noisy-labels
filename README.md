@@ -26,7 +26,7 @@ from: [CVPR-15: Learning from Massive Noisy Labeled Data for Image Classificatio
 ![some result](https://github.com/guixianjin/Some-realistic-noisy-label-datasets/blob/master/clean_net.PNG)
 
 #### 5 .[AAAI-19: Safeguarded Dynamic Label Regression for Noisy Supervision(journal verison)](https://arxiv.org/abs/1903.02152?context=cs.CV)
-![some result](https://github.com/guixianjin/Some-realistic-noisy-label-datasets/blob/master/LDNN.PNG)
+![some result](https://github.com/guixianjin/Some-realistic-noisy-label-datasets/blob/master/LNCC.PNG)
 
 #### 6.[CVPR-19：Probabilistic End-to-End Noise Correction for Learning with Noisy Labels](https://arxiv.org/pdf/1903.07788.pdf)
 ![some result](https://github.com/guixianjin/Some-realistic-noisy-label-datasets/blob/master/pencil.PNG)

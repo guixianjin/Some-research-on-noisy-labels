@@ -9,32 +9,32 @@ from: [CVPR-15: Learning from Massive Noisy Labeled Data for Image Classificatio
  + clean validation set: 14,313
  + clean test set: 10,526
  
- ![Noise confusion matrix](https://github.com/guixianjin/Some-realistic-noisy-label-datasets/blob/master/Clothing1Mnoise_transition_matrix.PNG) 
+ ![Noise confusion matrix](https://github.com/guixianjin/Some-realistic-noisy-label-datasets/blob/master/PicturesForClothing1M/Clothing1Mnoise_transition_matrix.PNG) 
  
  
 #### 1. [CVPR-15: Learning from Massive Noisy Labeled Data for Image Classification]()
-![some result](https://github.com/guixianjin/Some-realistic-noisy-label-datasets/blob/master/some_result.PNG)
+![some result](https://github.com/guixianjin/Some-realistic-noisy-label-datasets/blob/master/PicturesForClothing1M/Clothing1MResult.png)
 
 
 #### 2. [CVPR-17: Making Deep Neural Networks Robust to Label Noise: A Loss Correction Approach](https://arxiv.org/pdf/1609.03683.pdf)
-![some resutl](https://github.com/guixianjin/Some-realistic-noisy-label-datasets/blob/master/cvpr17_result.PNG)
+![some resutl](https://github.com/guixianjin/Some-realistic-noisy-label-datasets/blob/master/PicturesForClothing1M/cvpr17_result.PNG)
 
 #### 3. [CVPR-18: Joint Optimization Framework for Learning With Noisy Labels](https://arxiv.org/pdf/1803.11364v1.pdf)
-![some result](https://github.com/guixianjin/Some-realistic-noisy-label-datasets/blob/master/cvpr18_result.PNG)
+![some result](https://github.com/guixianjin/Some-realistic-noisy-label-datasets/blob/master/PicturesForClothing1M/cvpr18_result.PNG)
 
 #### 4. [CVPR-18: CleanNet: Transfer Learning for Scalable Image Classifier Training With Label Noise](https://arxiv.org/pdf/1711.07131.pdf)
-![some result](https://github.com/guixianjin/Some-realistic-noisy-label-datasets/blob/master/clean_net.PNG)
+![some result](https://github.com/guixianjin/Some-realistic-noisy-label-datasets/blob/master/PicturesForClothing1M/clean_net.PNG)
 
 #### 5. [AAAI-19: Safeguarded Dynamic Label Regression for Noisy Supervision(journal verison)](https://arxiv.org/abs/1903.02152?context=cs.CV)
-![some result](https://github.com/guixianjin/Some-realistic-noisy-label-datasets/blob/master/LCNN.PNG)
+![some result](https://github.com/guixianjin/Some-realistic-noisy-label-datasets/blob/master/PicturesForClothing1M/LCNN.PNG)
 
 #### 6. [CVPR-19：Probabilistic End-to-End Noise Correction for Learning with Noisy Labels](https://arxiv.org/pdf/1903.07788.pdf)
-![some result](https://github.com/guixianjin/Some-realistic-noisy-label-datasets/blob/master/pencil.PNG)
+![some result](https://github.com/guixianjin/Some-realistic-noisy-label-datasets/blob/master/PicturesForClothing1M/pencil.PNG)
 
 #### 7. [ICML-19: Unsupervised Label Noise Modeling and Loss Correction](https://arxiv.org/pdf/1904.11238v2.pdf)
 about 71%
 #### 8. [NIPS-19: L_DMI: A Novel Information-theoretic Loss Function for Training Deep Nets Robust to Label Noise](https://arxiv.org/pdf/1909.03388.pdf)
-![some result](https://github.com/guixianjin/Some-realistic-noisy-label-datasets/blob/master/DMI.PNG)
+![some result](https://github.com/guixianjin/Some-realistic-noisy-label-datasets/blob/master/PicturesForClothing1M/DMI.PNG)
 
 
 

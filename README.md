@@ -36,9 +36,9 @@ about 71%
 #### 8. [NIPS-19: L_DMI: A Novel Information-theoretic Loss Function for Training Deep Nets Robust to Label Noise](https://arxiv.org/pdf/1909.03388.pdf)
 ![some result](https://github.com/guixianjin/Some-realistic-noisy-label-datasets/blob/master/PicturesForClothing1M/DMI.PNG)
 
+### 9. [Improving MAE’s Fitting Ability while Preserving Its Noise-robustness](https://arxiv.org/pdf/1903.12141.pdf)
 
-
-
+![some result](https://github.com/guixianjin/Some-realistic-noisy-label-datasets/blob/master/PicturesForClothing1M/IMAE.PNG)
 
 
 

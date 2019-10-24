@@ -52,10 +52,10 @@ from: [Arxiv17: Webvision database: Visual learning and understanding from web d
 + 1,000 classes: concepts in ImageNet ILSVRC12
 
 #### 1. [CVPR-18: CleanNet: Transfer Learning for Scalable Image Classifier Training With Label Noise]()
-#### 2. [AAAI-19: Safeguarded Dynamic Label Regression for Noisy Supervision]()
-#### 3. [ICML-19:	Understanding and Utilizing Deep Neural Networks Trained with Noisy Labels]()
-
-
+#### 2.[ICML-18MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels](http://proceedings.mlr.press/v80/jiang18c/jiang18c.pdf)
+#### 3. [AAAI-19: Safeguarded Dynamic Label Regression for Noisy Supervision]()
+#### 4. [ICML-19:	Understanding and Utilizing Deep Neural Networks Trained with Noisy Labels]()
+ 
 
 
 ### [ANIMAL10N](https://dm.kaist.ac.kr/datasets/animal10n)

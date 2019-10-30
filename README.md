@@ -56,7 +56,14 @@ from: [Arxiv17: Webvision database: Visual learning and understanding from web d
 #### 3. [AAAI-19: Safeguarded Dynamic Label Regression for Noisy Supervision]()
 #### 4. [ICML-19:	Understanding and Utilizing Deep Neural Networks Trained with Noisy Labels]()
  
+## Food101-N
+from: [CVPR-18: CleanNet: Transfer Learning for Scalable Image Classifier Training With Label Noise]()
++ 101 food classes 
++ 310k image, 55k verification, 
++ noise rate: 20%
 
+#### 1. [CVPR-18: CleanNet: Transfer Learning for Scalable Image Classifier Training With Label Noise]()
+#### 2. [ICCV-19: Deep self-Learning from Noisy Labels]()
 
 ### [ANIMAL10N](https://dm.kaist.ac.kr/datasets/animal10n)
 from: [ICML-19: SELFIE: Refurbishing Unclean Samples for Robust Deep Learning]()

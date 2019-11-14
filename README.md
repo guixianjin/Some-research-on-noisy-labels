@@ -1,7 +1,7 @@
 
 # This is a record of current experiment result on some realistic noisy label datasets
 
-## Clothing1M dataset
+## 1. Clothing1M dataset
 from: [CVPR-15: Learning from Massive Noisy Labeled Data for Image Classification](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Xiao_Learning_From_Massive_2015_CVPR_paper.pdf)
  + 14 classes: T-shirt, Shirt, Knitwear, Chiffon, Sweater, Hoodie, Windbreaker, Jacket, Down Coat, Suit, Shawl, Dress, Vest, and Underwear
  + noisy labeled training dataset ($D_\eta$): $10^6$
@@ -47,7 +47,7 @@ about 71%
 
 
 
-## WebVison dataset
+## 2. WebVison dataset
 from: [Arxiv17: Webvision database: Visual learning and understanding from web data]()
 + 1,000 classes: concepts in ImageNet ILSVRC12
 
@@ -56,7 +56,7 @@ from: [Arxiv17: Webvision database: Visual learning and understanding from web d
 #### 3. [AAAI-19: Safeguarded Dynamic Label Regression for Noisy Supervision]()
 #### 4. [ICML-19:	Understanding and Utilizing Deep Neural Networks Trained with Noisy Labels]()
  
-## Food101-N
+## 3. Food101-N
 from: [CVPR-18: CleanNet: Transfer Learning for Scalable Image Classifier Training With Label Noise]()
 + 101 food classes 
 + 310k image, 55k verification, 

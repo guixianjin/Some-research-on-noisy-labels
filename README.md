@@ -18,6 +18,8 @@ from: [CVPR-15: Learning from Massive Noisy Labeled Data for Image Classificatio
 
 #### 2. [CVPR-17: Making Deep Neural Networks Robust to Label Noise: A Loss Correction Approach](https://arxiv.org/pdf/1609.03683.pdf)
 ![some resutl](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/cvpr17_result.PNG)
+#### 3. [CVPR-17: Attend in groups: A weakly-supervised deep learning framework for learning from web data](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhuang_Attend_in_Groups_CVPR_2017_paper.pdf)
+![some resutl](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/attend.PNG)
 
 #### 3. [CVPR-18: Joint Optimization Framework for Learning With Noisy Labels](https://arxiv.org/pdf/1803.11364v1.pdf)
 ![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/cvpr18_result.PNG)
@@ -33,6 +35,9 @@ from: [CVPR-15: Learning from Massive Noisy Labeled Data for Image Classificatio
 
 #### 7. [CVPR-19: Learning to Learn from Noisy Labeled Data](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Learning_to_Learn_From_Noisy_Labeled_Data_CVPR_2019_paper.pdf)
 ![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/Learning2Learn.PNG)
+
+#### 8. [CVPR-19: MetaCleaner: Learning to Hallucinate Clean Representations for Noisy-Labeled Visual Recognition](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_MetaCleaner_Learning_to_Hallucinate_Clean_Representations_for_Noisy-Labeled_Visual_Recognition_CVPR_2019_paper.pdf)
+![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/MetaCleaner.PNG)
 
 #### 7. [ICML-19: Unsupervised Label Noise Modeling and Loss Correction](https://arxiv.org/pdf/1904.11238v2.pdf)
 about 71%

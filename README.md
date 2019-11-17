@@ -31,6 +31,9 @@ from: [CVPR-15: Learning from Massive Noisy Labeled Data for Image Classificatio
 #### 6. [CVPR-19：Probabilistic End-to-End Noise Correction for Learning with Noisy Labels](https://arxiv.org/pdf/1903.07788.pdf)
 ![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/pencil2.PNG)
 
+#### 7. [CVPR-19: Learning to Learn from Noisy Labeled Data](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Learning_to_Learn_From_Noisy_Labeled_Data_CVPR_2019_paper.pdf)
+![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/Learning2Learn.PNG)
+
 #### 7. [ICML-19: Unsupervised Label Noise Modeling and Loss Correction](https://arxiv.org/pdf/1904.11238v2.pdf)
 about 71%
 #### 8. [NIPS-19: L_DMI: A Novel Information-theoretic Loss Function for Training Deep Nets Robust to Label Noise](https://arxiv.org/pdf/1909.03388.pdf)

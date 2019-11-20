@@ -53,12 +53,12 @@ about 71%
 
 
 
-## 2. WebVison dataset
+## 2. [WebVison dataset](www.vision.ee.ethz.ch/webvision/index.html)
 from: [Arxiv17: Webvision database: Visual learning and understanding from web data](https://arxiv.org/pdf/1708.02862.pdf)
 + 1,000 classes: concepts in ImageNet ILSVRC12
 
 #### 1. [CVPR-18: CleanNet: Transfer Learning for Scalable Image Classifier Training With Label Noise]()
-#### 2.[ICML-18MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels](http://proceedings.mlr.press/v80/jiang18c/jiang18c.pdf)
+#### 2. [ICML-18: MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels](http://proceedings.mlr.press/v80/jiang18c/jiang18c.pdf)
 #### 3. [AAAI-19: Safeguarded Dynamic Label Regression for Noisy Supervision]()
 #### 4. [ICML-19:	Understanding and Utilizing Deep Neural Networks Trained with Noisy Labels]()
  

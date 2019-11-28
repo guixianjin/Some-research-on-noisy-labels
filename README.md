@@ -29,6 +29,7 @@ from: [CVPR-15: Learning from Massive Noisy Labeled Data for Image Classificatio
 #### 5. [AAAI-19: Safeguarded Dynamic Label Regression for Noisy Supervision(journal verison)](https://arxiv.org/abs/1903.02152?context=cs.CV)
 ![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/LCNN.PNG)
 
+#### 6. [NIPS—19: Masking: A new perspective of noisy supervision]()
 #### 6. [CVPR-19：Probabilistic End-to-End Noise Correction for Learning with Noisy Labels](https://arxiv.org/pdf/1903.07788.pdf)
 ![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/pencil2.PNG)
 
@@ -71,7 +72,7 @@ from: [CVPR-18: CleanNet: Transfer Learning for Scalable Image Classifier Traini
 + noise rate: 20%
 
 #### 1. [CVPR-18: CleanNet: Transfer Learning for Scalable Image Classifier Training With Label Noise]()
-#### 2. [ECCV-18: CurriculumNet: Weakly Supervised Learning from Large scale Web Images]
+#### 2. [ECCV-18: CurriculumNet: Weakly Supervised Learning from Large scale Web Images]()
 #### 3. [CVPR-19: MetaCleaner: Learning to Hallucinate Clean Representations for Noisy-Labeled Visual Recognition](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_MetaCleaner_Learning_to_Hallucinate_Clean_Representations_for_Noisy-Labeled_Visual_Recognition_CVPR_2019_paper.pdf)
 #### 4. [ICCV-19: Deep self-Learning from Noisy Labels]()
 

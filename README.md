@@ -24,6 +24,7 @@ from: [CVPR-15: Learning from Massive Noisy Labeled Data for Image Classificatio
 
 #### 4. [CVPR-18: CleanNet: Transfer Learning for Scalable Image Classifier Training With Label Noise](https://arxiv.org/pdf/1711.07131.pdf)
 ![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/clean_net.PNG)
+#### 5. [ECCV-18: CurriculumNet: Weakly Supervised Learning from Large scale Web Images]()
 
 #### 5. [AAAI-19: Safeguarded Dynamic Label Regression for Noisy Supervision(journal verison)](https://arxiv.org/abs/1903.02152?context=cs.CV)
 ![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/LCNN.PNG)
@@ -49,20 +50,18 @@ about 71%
 
 
 
-
-
-
-
 ## 2. [WebVison dataset](http://www.vision.ee.ethz.ch/webvision/index.html)
 from: [Arxiv17: Webvision database: Visual learning and understanding from web data](https://arxiv.org/pdf/1708.02862.pdf)
 + 1,000 classes: concepts in ImageNet ILSVRC12
 + noise rate: 20-40%
 
 #### 1. [CVPR-18: CleanNet: Transfer Learning for Scalable Image Classifier Training With Label Noise]()
-#### 2. [ICML-18: MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels](http://proceedings.mlr.press/v80/jiang18c/jiang18c.pdf)
-#### 3. [AAAI-19: Safeguarded Dynamic Label Regression for Noisy Supervision]()
+#### 2. [ECCV-18: CurriculumNet: Weakly Supervised Learning from Large scale Web Images]()
 
-#### 4. [ICML-19:	Understanding and Utilizing Deep Neural Networks Trained with Noisy Labels]()
+#### 3. [ICML-18: MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels](http://proceedings.mlr.press/v80/jiang18c/jiang18c.pdf)
+#### 4. [AAAI-19: Safeguarded Dynamic Label Regression for Noisy Supervision]()
+
+#### 5. [ICML-19:	Understanding and Utilizing Deep Neural Networks Trained with Noisy Labels]()
 only use the first 50 classes
  
 ## 3. [Food101-N](https://kuanghuei.github.io/Food-101N/)
@@ -72,7 +71,9 @@ from: [CVPR-18: CleanNet: Transfer Learning for Scalable Image Classifier Traini
 + noise rate: 20%
 
 #### 1. [CVPR-18: CleanNet: Transfer Learning for Scalable Image Classifier Training With Label Noise]()
-#### 2. [ICCV-19: Deep self-Learning from Noisy Labels]()
+#### 2. [ECCV-18: CurriculumNet: Weakly Supervised Learning from Large scale Web Images]
+#### 3. [CVPR-19: MetaCleaner: Learning to Hallucinate Clean Representations for Noisy-Labeled Visual Recognition](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_MetaCleaner_Learning_to_Hallucinate_Clean_Representations_for_Noisy-Labeled_Visual_Recognition_CVPR_2019_paper.pdf)
+#### 4. [ICCV-19: Deep self-Learning from Noisy Labels]()
 
 ### [ANIMAL10N](https://dm.kaist.ac.kr/datasets/animal10n)
 from: [ICML-19: SELFIE: Refurbishing Unclean Samples for Robust Deep Learning]()

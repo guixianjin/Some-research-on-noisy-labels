@@ -56,11 +56,14 @@ about 71%
 ## 2. [WebVison dataset](http://www.vision.ee.ethz.ch/webvision/index.html)
 from: [Arxiv17: Webvision database: Visual learning and understanding from web data](https://arxiv.org/pdf/1708.02862.pdf)
 + 1,000 classes: concepts in ImageNet ILSVRC12
++ noise rate: 20-40%
 
 #### 1. [CVPR-18: CleanNet: Transfer Learning for Scalable Image Classifier Training With Label Noise]()
 #### 2. [ICML-18: MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels](http://proceedings.mlr.press/v80/jiang18c/jiang18c.pdf)
 #### 3. [AAAI-19: Safeguarded Dynamic Label Regression for Noisy Supervision]()
+
 #### 4. [ICML-19:	Understanding and Utilizing Deep Neural Networks Trained with Noisy Labels]()
+only use the first 50 classes
  
 ## 3. Food101-N
 from: [CVPR-18: CleanNet: Transfer Learning for Scalable Image Classifier Training With Label Noise]()
@@ -73,5 +76,6 @@ from: [CVPR-18: CleanNet: Transfer Learning for Scalable Image Classifier Traini
 
 ### [ANIMAL10N](https://dm.kaist.ac.kr/datasets/animal10n)
 from: [ICML-19: SELFIE: Refurbishing Unclean Samples for Robust Deep Learning]()
-
+#### 1. [ICML-19: SELFIE: Refurbishing Unclean Samples for Robust Deep Learning]()
+#### 2. [ICLR-2020: Prestopping: How Does Early Stopping Help Generalization Against Label Noise?]()
 

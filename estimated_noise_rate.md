@@ -3,7 +3,7 @@
 ## Noise confusion matrix esitmation
 #### [CVPR-17: Making Deep Neural Networks Robust to Label Noise: A Loss Correction Approach](https://arxiv.org/pdf/1609.03683.pdf)
  the extension of the recent noise estimator for binary classes
- ##### [TPAMI-16: Classification with noisy labels by importance reweighting]]()
+ ##### [TPAMI-16: Classification with noisy labels by importance reweighting]()
  ##### [ICML-15: Learning from corrupted binary labels via class-probability estimateion]()
 
  cited by co-teaching a validatation? 

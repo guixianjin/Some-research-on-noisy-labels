@@ -76,10 +76,11 @@ from: [Arxiv17: Webvision database: Visual learning and understanding from web d
 #### 1. [CVPR-18: CleanNet: Transfer Learning for Scalable Image Classifier Training With Label Noise]()
 #### 2. [ECCV-18: CurriculumNet: Weakly Supervised Learning from Large scale Web Images]()
 #### 3. [ICML-18: MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels](http://proceedings.mlr.press/v80/jiang18c/jiang18c.pdf)
+use all data or only use the first 50 classes of Google image subset
 #### 4. [AAAI-19: Safeguarded Dynamic Label Regression for Noisy Supervision]()
 
 #### 5. [ICML-19:	Understanding and Utilizing Deep Neural Networks Trained with Noisy Labels]()
-only use the first 50 classes
+only use the first 50 classes of Google image subset
 #### 6. [NIPS-19: Combinatorial Inference against Label Noise]()
 only use the randomly selected 100 classes
  

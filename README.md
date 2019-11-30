@@ -53,7 +53,7 @@ about 71%
 ![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/anchor-Clothing1M.PNG)
 
 #### 10.[Meta-Weight-Net: Learning an Explicit Mapping For Sample Weighting](https://papers.nips.cc/paper/8467-meta-weight-net-learning-an-explicit-mapping-for-sample-weighting.pdf)
-![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/Meta-Weight-Net-Clothing1M.PNG)
+![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/Meta-weight-Net-Clothing1M.PNG)
 
 
 #### 15. [ICCV-19: Deep Self-Learning From Noisy Labels ](http://openaccess.thecvf.com/content_ICCV_2019/papers/Han_Deep_Self-Learning_From_Noisy_Labels_ICCV_2019_paper.pdf)

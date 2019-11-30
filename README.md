@@ -29,7 +29,8 @@ from: [CVPR-15: Learning from Massive Noisy Labeled Data for Image Classificatio
 #### 5. [AAAI-19: Safeguarded Dynamic Label Regression for Noisy Supervision(journal verison)](https://arxiv.org/abs/1903.02152?context=cs.CV)
 ![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/LCNN.PNG)
 
-#### 6. [NIPS—19: Masking: A new perspective of noisy supervision]()
+#### 6. [NIPS-19: Masking: A new perspective of noisy supervision]()
+
 #### 6. [CVPR-19：Probabilistic End-to-End Noise Correction for Learning with Noisy Labels](https://arxiv.org/pdf/1903.07788.pdf)
 ![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/pencil2.PNG)
 
@@ -43,8 +44,10 @@ from: [CVPR-15: Learning from Massive Noisy Labeled Data for Image Classificatio
 about 71%
 #### 8. [NIPS-19: L_DMI: A Novel Information-theoretic Loss Function for Training Deep Nets Robust to Label Noise](https://arxiv.org/pdf/1909.03388.pdf)
 ![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/DMI.PNG)
+#### 9. [NIPS-19: Are Anchor Points Really Indispensable in Label-Noise Learning?]()
+![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/Anchor-Clothing1M.PNG)
 
-#### 9. [Improving MAE’s Fitting Ability while Preserving Its Noise-robustness](https://arxiv.org/pdf/1903.12141.pdf)
+#### 9. [Arixv-19: Improving MAE’s Fitting Ability while Preserving Its Noise-robustness](https://arxiv.org/pdf/1903.12141.pdf)
 
 ![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/IMAE.PNG)
 
@@ -64,6 +67,8 @@ from: [Arxiv17: Webvision database: Visual learning and understanding from web d
 
 #### 5. [ICML-19:	Understanding and Utilizing Deep Neural Networks Trained with Noisy Labels]()
 only use the first 50 classes
+#### 6. [NIPS-19: Combinatorial Inference against Label Noise]()
+only use the randomly selected 100 classes
  
 ## 3. [Food101-N](https://kuanghuei.github.io/Food-101N/)
 from: [CVPR-18: CleanNet: Transfer Learning for Scalable Image Classifier Training With Label Noise]()

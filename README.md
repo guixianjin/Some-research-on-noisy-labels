@@ -45,14 +45,14 @@ from: [CVPR-15: Learning from Massive Noisy Labeled Data for Image Classificatio
 #### 10. [CVPR-19: MetaCleaner: Learning to Hallucinate Clean Representations for Noisy-Labeled Visual Recognition](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_MetaCleaner_Learning_to_Hallucinate_Clean_Representations_for_Noisy-Labeled_Visual_Recognition_CVPR_2019_paper.pdf)
 ![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/MetaCleaner.PNG)
 
-#### . [ICML-19: Unsupervised Label Noise Modeling and Loss Correction](https://arxiv.org/pdf/1904.11238v2.pdf)
+#### 11. [ICML-19: Unsupervised Label Noise Modeling and Loss Correction](https://arxiv.org/pdf/1904.11238v2.pdf)
 about 71%
 #### 10. [NIPS-19: L_DMI: A Novel Information-theoretic Loss Function for Training Deep Nets Robust to Label Noise](https://arxiv.org/pdf/1909.03388.pdf)
 ![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/DMI.PNG)
-#### . [NIPS-19: Are Anchor Points Really Indispensable in Label-Noise Learning?]()
+#### 11. [NIPS-19: Are Anchor Points Really Indispensable in Label-Noise Learning?]()
 ![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/anchor-Clothing1M.PNG)
 
-#### 10.[Meta-Weight-Net: Learning an Explicit Mapping For Sample Weighting](https://papers.nips.cc/paper/8467-meta-weight-net-learning-an-explicit-mapping-for-sample-weighting.pdf)
+#### 10. [Meta-Weight-Net: Learning an Explicit Mapping For Sample Weighting](https://papers.nips.cc/paper/8467-meta-weight-net-learning-an-explicit-mapping-for-sample-weighting.pdf)
 ![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/Meta-weight-Net-Clothing1M.PNG)
 
 

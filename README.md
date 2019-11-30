@@ -57,7 +57,7 @@ about 71%
 
 #### 16. [ICCV-19: Symmetric Cross Entropy for Robust Learning with Noisy Labels](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Symmetric_Cross_Entropy_for_Robust_Learning_With_Noisy_Labels_ICCV_2019_paper.pdf)
 ![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/Symmetric-CE-Clothing1M.PNG)
-#### 17.[ICCV19: O2U-Net: A Simple Noisy Label Detection Approach for Deep Neural Networks](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_O2U-Net_A_Simple_Noisy_Label_Detection_Approach_for_Deep_Neural_ICCV_2019_paper.pdf)
+#### 17. [ICCV-19: O2U-Net: A Simple Noisy Label Detection Approach for Deep Neural Networks](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_O2U-Net_A_Simple_Noisy_Label_Detection_Approach_for_Deep_Neural_ICCV_2019_paper.pdf)
 ![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/O2U-Net-Clothing1M.PNG)
 
 #### 18. [Arixv-19: Improving MAE’s Fitting Ability while Preserving Its Noise-robustness](https://arxiv.org/pdf/1903.12141.pdf)
@@ -75,7 +75,6 @@ from: [Arxiv17: Webvision database: Visual learning and understanding from web d
 
 #### 1. [CVPR-18: CleanNet: Transfer Learning for Scalable Image Classifier Training With Label Noise]()
 #### 2. [ECCV-18: CurriculumNet: Weakly Supervised Learning from Large scale Web Images]()
-
 #### 3. [ICML-18: MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels](http://proceedings.mlr.press/v80/jiang18c/jiang18c.pdf)
 #### 4. [AAAI-19: Safeguarded Dynamic Label Regression for Noisy Supervision]()
 
@@ -95,7 +94,14 @@ from: [CVPR-18: CleanNet: Transfer Learning for Scalable Image Classifier Traini
 #### 3. [CVPR-19: MetaCleaner: Learning to Hallucinate Clean Representations for Noisy-Labeled Visual Recognition](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_MetaCleaner_Learning_to_Hallucinate_Clean_Representations_for_Noisy-Labeled_Visual_Recognition_CVPR_2019_paper.pdf)
 #### 4. [ICCV-19: Deep self-Learning from Noisy Labels]()
 
-### [ANIMAL10N](https://dm.kaist.ac.kr/datasets/animal10n)
+
+
+
+
+
+
+
+## 3. [ANIMAL10N](https://dm.kaist.ac.kr/datasets/animal10n)
 from: [ICML-19: SELFIE: Refurbishing Unclean Samples for Robust Deep Learning]()
 #### 1. [ICML-19: SELFIE: Refurbishing Unclean Samples for Robust Deep Learning]()
 #### 2. [ICLR-2020: Prestopping: How Does Early Stopping Help Generalization Against Label Noise?]()

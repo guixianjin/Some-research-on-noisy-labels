@@ -101,7 +101,7 @@ from: [CVPR-18: CleanNet: Transfer Learning for Scalable Image Classifier Traini
 
 
 
-## 3. [ANIMAL10N](https://dm.kaist.ac.kr/datasets/animal10n)
+## 4. [ANIMAL10N](https://dm.kaist.ac.kr/datasets/animal10n)
 from: [ICML-19: SELFIE: Refurbishing Unclean Samples for Robust Deep Learning]()
 #### 1. [ICML-19: SELFIE: Refurbishing Unclean Samples for Robust Deep Learning]()
 #### 2. [ICLR-2020: Prestopping: How Does Early Stopping Help Generalization Against Label Noise?]()

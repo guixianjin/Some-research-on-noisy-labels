@@ -25,6 +25,8 @@ from: [CVPR-15: Learning from Massive Noisy Labeled Data for Image Classificatio
 #### 4. [CVPR-18: CleanNet: Transfer Learning for Scalable Image Classifier Training With Label Noise](https://arxiv.org/pdf/1711.07131.pdf)
 ![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/clean_net.PNG)
 #### 5. [ECCV-18: CurriculumNet: Weakly Supervised Learning from Large scale Web Images]()
+#### 6. [ECCV-18: Deep Bilevel Learning](http://openaccess.thecvf.com/content_ECCV_2018/papers/Simon_Jenni_Deep_Bilevel_Learning_ECCV_2018_paper.pdf)
+69.9(only use noisy training data) -> 79.9(fine-tuning)
 
 #### 6. [NIPS-18: Masking: A new perspective of noisy supervision](https://arxiv.org/pdf/1805.08193.pdf)
 

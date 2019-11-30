@@ -30,7 +30,7 @@ from: [CVPR-15: Learning from Massive Noisy Labeled Data for Image Classificatio
 ![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/LCNN.PNG)
 
 #### 6. [NIPS-18: Masking: A new perspective of noisy supervision](https://arxiv.org/pdf/1805.08193.pdf)
-(https://arxiv.org/abs/1903.02152?context=cs.CV)
+
 ![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/Masking-Clothing1M.PNG)
 
 #### 6. [CVPR-19：Probabilistic End-to-End Noise Correction for Learning with Noisy Labels](https://arxiv.org/pdf/1903.07788.pdf)
@@ -38,6 +38,9 @@ from: [CVPR-15: Learning from Massive Noisy Labeled Data for Image Classificatio
 
 #### 7. [CVPR-19: Learning to Learn from Noisy Labeled Data](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Learning_to_Learn_From_Noisy_Labeled_Data_CVPR_2019_paper.pdf)
 ![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/Learning2Learn.PNG)
+
+#### 8. [CVPR-19: Weakly Supervised Image Classification through Noise Regularization](http://openaccess.thecvf.com/content_CVPR_2019/papers/Hu_Weakly_Supervised_Image_Classification_Through_Noise_Regularization_CVPR_2019_paper.pdf)
+![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/weakly-supervised-Clothing1M.PNG)
 
 #### 8. [CVPR-19: MetaCleaner: Learning to Hallucinate Clean Representations for Noisy-Labeled Visual Recognition](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_MetaCleaner_Learning_to_Hallucinate_Clean_Representations_for_Noisy-Labeled_Visual_Recognition_CVPR_2019_paper.pdf)
 ![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/MetaCleaner.PNG)
@@ -49,8 +52,17 @@ about 71%
 #### 9. [NIPS-19: Are Anchor Points Really Indispensable in Label-Noise Learning?]()
 ![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/anchor-Clothing1M.PNG)
 
-#### 9. [Arixv-19: Improving MAE’s Fitting Ability while Preserving Its Noise-robustness](https://arxiv.org/pdf/1903.12141.pdf)
+#### 10. [ICCV-19: Deep Self-Learning From Noisy Labels ](http://openaccess.thecvf.com/content_ICCV_2019/papers/Han_Deep_Self-Learning_From_Noisy_Labels_ICCV_2019_paper.pdf)
+![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/Deep-self-Clothing1M.PNG)
 
+#### 10. [ICCV-19: Symmetric Cross Entropy for Robust Learning with Noisy Labels](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Symmetric_Cross_Entropy_for_Robust_Learning_With_Noisy_Labels_ICCV_2019_paper.pdf)
+![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/Symmetric-CE-Clothing1M.PNG)
+#### 11.[ICCV19: O2U-Net: A Simple Noisy Label Detection Approach for Deep Neural Networks](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_O2U-Net_A_Simple_Noisy_Label_Detection_Approach_for_Deep_Neural_ICCV_2019_paper.pdf)
+O2U-Net-Clothing1M
+![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/O2U-Net-Clothing1M.PNG)
+
+
+#### 9. [Arixv-19: Improving MAE’s Fitting Ability while Preserving Its Noise-robustness](https://arxiv.org/pdf/1903.12141.pdf)
 ![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/IMAE.PNG)
 
 

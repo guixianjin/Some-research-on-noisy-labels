@@ -25,6 +25,7 @@ from: [CVPR-15: Learning from Massive Noisy Labeled Data for Image Classificatio
 #### 4. [CVPR-18: CleanNet: Transfer Learning for Scalable Image Classifier Training With Label Noise](https://arxiv.org/pdf/1711.07131.pdf)
 ![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/clean_net.PNG)
 #### 5. [ECCV-18: CurriculumNet: Weakly Supervised Learning from Large scale Web Images]()
+
 #### 6. [ECCV-18: Deep Bilevel Learning](http://openaccess.thecvf.com/content_ECCV_2018/papers/Simon_Jenni_Deep_Bilevel_Learning_ECCV_2018_paper.pdf)
 69.9(only use noisy training data) -> 79.9(fine-tuning)
 
@@ -104,6 +105,8 @@ from: [CVPR-18: CleanNet: Transfer Learning for Scalable Image Classifier Traini
 
 #### 1. [CVPR-18: CleanNet: Transfer Learning for Scalable Image Classifier Training With Label Noise]()
 #### 2. [ECCV-18: CurriculumNet: Weakly Supervised Learning from Large scale Web Images]()
+      not use Food101N created by cleanNet paper, but use Food101 and inject 20% noise
+
 #### 3. [CVPR-19: MetaCleaner: Learning to Hallucinate Clean Representations for Noisy-Labeled Visual Recognition](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_MetaCleaner_Learning_to_Hallucinate_Clean_Representations_for_Noisy-Labeled_Visual_Recognition_CVPR_2019_paper.pdf)
 #### 4. [ICCV-19: Deep self-Learning from Noisy Labels]()
 #### 5. [ICLR-20: underview: Prestopping: How does Early stopping help generalization against label noise]()

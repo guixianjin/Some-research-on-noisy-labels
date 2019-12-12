@@ -74,8 +74,6 @@ about 71%
 
 
 
-
-
 ## 2. [WebVison dataset](http://www.vision.ee.ethz.ch/webvision/index.html)
 from: [Arxiv17: Webvision database: Visual learning and understanding from web data](https://arxiv.org/pdf/1708.02862.pdf)
 + 1,000 classes: concepts in ImageNet ILSVRC12
@@ -94,7 +92,8 @@ only use the randomly selected 100 classes
 
 #### 7. [ICLR-20 underreview: IEG: Robust neural networks training to tackel severe label noise]()
 
-#### 8. [ICLR-20 Underreview:]
+#### 8. [ICLR-20: underview: DivideMiX: Learning with noisy labels as semi-supervised learning]()
+
 
 
 ## 3. [Food101-N](https://kuanghuei.github.io/Food-101N/)
@@ -107,8 +106,7 @@ from: [CVPR-18: CleanNet: Transfer Learning for Scalable Image Classifier Traini
 #### 2. [ECCV-18: CurriculumNet: Weakly Supervised Learning from Large scale Web Images]()
 #### 3. [CVPR-19: MetaCleaner: Learning to Hallucinate Clean Representations for Noisy-Labeled Visual Recognition](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_MetaCleaner_Learning_to_Hallucinate_Clean_Representations_for_Noisy-Labeled_Visual_Recognition_CVPR_2019_paper.pdf)
 #### 4. [ICCV-19: Deep self-Learning from Noisy Labels]()
-#### 5. [ICLR-20: underview: Prestopping: How does Early stopping help generalization against label noise]
-#### 6. [ICLR-20: underview: DivideMiX: Learning with noisy labels as semi-supervised learning]
+#### 5. [ICLR-20: underview: Prestopping: How does Early stopping help generalization against label noise]()
 
 
 

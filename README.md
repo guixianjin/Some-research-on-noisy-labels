@@ -69,6 +69,8 @@ about 71%
 #### 18. [Arixv-19: Improving MAE’s Fitting Ability while Preserving Its Noise-robustness](https://arxiv.org/pdf/1903.12141.pdf)
 ![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/IMAE.PNG)
 
+#### 19. [ICLR-20: underview: DivideMiX: Learning with noisy labels as semi-supervised learning]
+
 
 
 
@@ -106,7 +108,7 @@ from: [CVPR-18: CleanNet: Transfer Learning for Scalable Image Classifier Traini
 #### 3. [CVPR-19: MetaCleaner: Learning to Hallucinate Clean Representations for Noisy-Labeled Visual Recognition](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_MetaCleaner_Learning_to_Hallucinate_Clean_Representations_for_Noisy-Labeled_Visual_Recognition_CVPR_2019_paper.pdf)
 #### 4. [ICCV-19: Deep self-Learning from Noisy Labels]()
 #### 5. [ICLR-20: underview: Prestopping: How does Early stopping help generalization against label noise]
-#### 6. [ICLR-20: underview:]
+#### 6. [ICLR-20: underview: DivideMiX: Learning with noisy labels as semi-supervised learning]
 
 
 

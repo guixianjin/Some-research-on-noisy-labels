@@ -86,14 +86,18 @@ from: [Arxiv17: Webvision database: Visual learning and understanding from web d
 use all data or only use the first 50 classes of Google image subset
 #### 4. [AAAI-19: Safeguarded Dynamic Label Regression for Noisy Supervision]()
 
-#### 5. [ICML-19:	Understanding and Utilizing Deep Neural Networks Trained with Noisy Labels]()
+#### 5. [Arxiv19: A simple yet effective Baseline for Robust Deep Learning with Noisy Labels]()
+use all 1000 classes
+
+#### 6. [ICML-19:	Understanding and Utilizing Deep Neural Networks Trained with Noisy Labels]()
 only use the first 50 classes of Google image subset
-#### 6. [NIPS-19: Combinatorial Inference against Label Noise]()
+
+#### 7. [NIPS-19: Combinatorial Inference against Label Noise]()
 only use the randomly selected 100 classes
 
-#### 7. [ICLR-20 underreview: IEG: Robust neural networks training to tackel severe label noise]()
+#### 8. [ICLR-20 underreview: IEG: Robust neural networks training to tackel severe label noise]()
 
-#### 8. [ICLR-20: underview: DivideMiX: Learning with noisy labels as semi-supervised learning]()
+#### 9. [ICLR-20: underview: DivideMiX: Learning with noisy labels as semi-supervised learning]()
 
 
 

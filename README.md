@@ -11,6 +11,7 @@ from: [CVPR-15: Learning from Massive Noisy Labeled Data for Image Classificatio
  
  ![Noise confusion matrix](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/Clothing1Mnoise_transition_matrix.png) 
  
+ It's not column-diagonally dominant. Although examples in noisy class 3 and noisy class 5 have been swapped, it's still not column-diagonally dominant. Small-loss trick may not work.
  
 #### 1. [CVPR-15: Learning from Massive Noisy Labeled Data for Image Classification]()
 ![some result](https://github.com/guixianjin/Some-research-on-noisy-labels/blob/master/PicturesForClothing1M/Clothing1MResult.png)
